@@ -17,3 +17,7 @@ Não deve ser utilizado em ambientes de produção ou para qualquer finalidade m
 1. O script observa uma pasta definida no parâmetro `$pathToWatch`.
 2. Quando o arquivo `marker.txt` é extraído para essa pasta, o evento é disparado.
 3. O PowerShell cria um **atalho na pasta de inicialização do Windows** que abre a Calculadora (`calc.exe`) ao iniciar o sistema.
+
+🎥 Vídeo de demonstração
+Você pode assistir ao vídeo explicando este exemplo no YouTube:
+👉 [Falha GRAVE no WinRAR - YouTube](https://youtu.be/hZzwrA0npvM)
